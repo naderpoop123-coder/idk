@@ -1,0 +1,4 @@
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/eaf72bf15eb43f22a91f6e5978b1df2519f2174e2472ce03947763ce4b177c92/download"))()
